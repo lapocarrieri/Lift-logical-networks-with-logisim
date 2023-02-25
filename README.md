@@ -1,5 +1,6 @@
 # Lift-logical-networks-with-logisim
- 
+ Project realized for Tongji University.
+ The project is realized by Lapo Carrieri and Filippo Castorri.
 ### Problem 
 ![image](https://user-images.githubusercontent.com/56505429/221370123-950b09c9-6df0-49d6-9d72-a9ba9dc797d8.png)
 
